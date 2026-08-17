@@ -1,0 +1,10 @@
+<svg width="840" height="840" viewBox="0 0 840 840" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="840" height="840" rx="64" fill="#11182B"/>
+  <circle cx="660" cy="170" r="220" fill="#78E6C8" fill-opacity="0.11"/>
+  <circle cx="150" cy="700" r="260" fill="#78E6C8" fill-opacity="0.07"/>
+  <path d="M125 420C210 220 312 170 420 170C528 170 630 220 715 420C630 620 528 670 420 670C312 670 210 620 125 420Z" fill="#151E34" stroke="#78E6C8" stroke-opacity="0.22" stroke-width="4"/>
+  <circle cx="420" cy="335" r="118" fill="#1A2540" stroke="#78E6C8" stroke-opacity="0.28" stroke-width="4"/>
+  <path d="M245 622C285 505 345 460 420 460C495 460 555 505 595 622" fill="#1A2540"/>
+  <text x="420" y="368" text-anchor="middle" font-family="Arial, sans-serif" font-size="92" font-weight="700" fill="#78E6C8">AM</text>
+  <text x="420" y="744" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" letter-spacing="7" fill="#AEB8CC">SOFTWARE</text>
+</svg>
