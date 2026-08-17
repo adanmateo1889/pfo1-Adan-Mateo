@@ -6,15 +6,13 @@ El objetivo del proyecto es presentar de forma breve mi perfil como estudiante, 
 
 ## 🌐 Sitio publicado
 
-**Vercel:** `PEGAR_AQUI_LA_URL_DE_VERCEL`
+**Vercel:** https://pfo1-adan-mateo.vercel.app/
 
-> Esta URL debe completarse después de publicar el repositorio en Vercel.
 
 ## 👨‍💻 GitHub
 
-**Perfil:** `https://github.com/tu-usuario`
+**Perfil:** https://github.com/adanmateo1889
 
-> Reemplazar `tu-usuario` por el nombre real de usuario de GitHub antes de entregar.
 
 ## 🧩 Tecnologías utilizadas
 
@@ -98,41 +96,36 @@ En esta práctica utilicé la IA para:
 
 La IA no fue utilizada como sustituto de la revisión personal. Revisé la estructura del proyecto, la relación entre HTML y CSS, el contenido mostrado, la legibilidad, la navegación, el comportamiento responsive y la coherencia con la consigna. También seleccioné qué habilidades y proyectos resultaban apropiados para mostrar en un portafolio académico.
 
-Antes de la entrega final voy a verificar nuevamente los enlaces, reemplazar los datos pendientes por mis datos reales, probar el sitio en diferentes tamaños de pantalla y confirmar que la versión publicada en Vercel coincida con el repositorio.
+Antes de la entrega final verifiqué los enlaces, reemplacé los datos pendientes por mis datos reales, probé el sitio en diferentes tamaños de pantalla y confirmé que la versión publicada en Vercel coincidiera con el repositorio.
 
 ## 🖼️ Uso de imágenes e IA
 
 La imagen `assets/perfil.svg` es una ilustración gráfica creada específicamente para esta práctica con asistencia de IA. No representa una fotografía real.
 
-Si posteriormente reemplazo esta ilustración por una fotografía propia procesada, editada o generada con IA, actualizaré esta sección indicando la herramienta y el tipo de intervención realizada.
+La ilustración se mantuvo como recurso visual del portafolio y su uso quedó documentado en este README para asegurar la trazabilidad del uso de IA.
 
 ## 🚀 Publicación en Vercel
 
-1. Crear un repositorio público en GitHub.
-2. Subir los archivos de este proyecto.
-3. Ingresar a Vercel.
-4. Elegir **Add New → Project**.
-5. Importar el repositorio de GitHub.
-6. Mantener la configuración de proyecto estático.
-7. Seleccionar **Deploy**.
-8. Copiar la URL publicada y agregarla en este README.
+El proyecto fue publicado en Vercel a partir del repositorio de GitHub.
 
-## 🧪 Verificación antes de entregar
+**URL publicada:** https://pfo1-adan-mateo.vercel.app/
 
-- [ ] Reemplazar `https://github.com/tu-usuario` en `index.html`.
-- [ ] Reemplazar `github.com/tu-usuario` en el texto visible de la sección Contacto.
-- [ ] Reemplazar la URL de GitHub en este README.
-- [ ] Completar la URL de Vercel.
-- [ ] Revisar el nombre y los textos personales.
-- [ ] Abrir todos los enlaces.
-- [ ] Probar la landing en celular y escritorio.
-- [ ] Verificar que el repositorio sea público.
-- [ ] Confirmar que el README sea visible desde GitHub.
-- [ ] Entregar únicamente el enlace al repositorio público.
+La versión desplegada corresponde al contenido del repositorio utilizado para esta entrega.
 
-## 📝 Historial de commits sugerido
+## 🧪 Verificación final
 
-Para que el proceso quede documentado de forma clara, se puede mantener un historial similar a este:
+- [x] Enlace al perfil de GitHub actualizado.
+- [x] URL de Vercel incorporada al README.
+- [x] Nombre y textos personales revisados.
+- [x] Enlaces principales verificados.
+- [x] Landing revisada en distintos tamaños de pantalla.
+- [x] Repositorio configurado como público.
+- [x] README visible desde GitHub.
+- [x] Versión publicada en Vercel verificada.
+
+## 📝 Organización sugerida del historial de commits
+
+Como criterio de organización del proceso, el historial de commits puede seguir una estructura clara y progresiva como la siguiente:
 
 ```text
 feat: crear estructura semántica inicial
